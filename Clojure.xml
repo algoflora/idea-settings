@@ -1,0 +1,6 @@
+<application>
+  <component name="ClojureIdeSettings">
+    <option name="separateREPLItems" value="true" />
+    <option name="structuralStyle" value="0" />
+  </component>
+</application>
