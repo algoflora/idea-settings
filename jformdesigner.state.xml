@@ -1,5 +1,10 @@
 <application>
   <component name="JFormDesigner">
     <entry key="lookandfeel.idea" value="com.intellij.ide.ui.laf.darcula.DarculaLaf" />
+    <node name="designer">
+      <node name="forms">
+        <entry key="selection-502384144" value="priceUnitTextPane" />
+      </node>
+    </node>
   </component>
 </application>
