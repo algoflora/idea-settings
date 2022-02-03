@@ -6,7 +6,7 @@
     <node name="designer">
       <entry key="properties.expanded.category.expert" value="true" />
       <node name="forms">
-        <entry key="selection-502384144" value="statusDelayedFeedLabel" />
+        <entry key="selection-502384144" value="statusActiveLabel" />
       </node>
     </node>
   </component>
