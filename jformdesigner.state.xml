@@ -4,8 +4,9 @@
     <entry key="updates.lastcheckedversion" value="7.0.5.1.409" />
     <entry key="updates.lastchecked" value="1643720954794" />
     <node name="designer">
+      <entry key="properties.expanded.category.expert" value="true" />
       <node name="forms">
-        <entry key="selection-502384144" value="statusNonTradableLabel" />
+        <entry key="selection-502384144" value="statusDelayedFeedLabel" />
       </node>
     </node>
   </component>
