@@ -7,7 +7,7 @@
       <entry key="newcontainer.layoutmanager" value="java.awt.FlowLayout" />
       <entry key="properties.expanded.category.expert" value="true" />
       <node name="forms">
-        <entry key="selection-502384144" value="scheduleViewer" />
+        <entry key="selection-502384144" value="statusLabels" />
         <entry key="paletteexpanded-502384144" value="components,containers" />
       </node>
     </node>
