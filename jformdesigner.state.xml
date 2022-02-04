@@ -7,8 +7,8 @@
       <entry key="newcontainer.layoutmanager" value="java.awt.FlowLayout" />
       <entry key="properties.expanded.category.expert" value="true" />
       <node name="forms">
-        <entry key="selection-502384144" value="statusActiveLabel" />
         <entry key="paletteexpanded-502384144" value="components,containers" />
+        <entry key="selection-502384144" value="statusLabels" />
       </node>
     </node>
   </component>
